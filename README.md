@@ -60,8 +60,8 @@ The application takes a list of cities as input and returns them ordered based o
 1. **Clone the repository**:
 
 ```
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone git@github.com:Tricked111/Travelling-Salesman-Problem.git
+cd Travelling-Salesman-Problem
 ```
 2. **Start the services:**
 ```
