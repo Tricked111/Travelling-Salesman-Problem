@@ -65,7 +65,7 @@ cd Travelling-Salesman-Problem
 ```
 2. **Start the services:**
 ```
-docker-compose up --build
+docker compose up --build
 ```
 3. **Visit in your browser:**
 ```
